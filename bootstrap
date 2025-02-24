@@ -47,7 +47,7 @@ PERL="${PERL-perl}"
 
 me=$0
 
-default_gnulib_url=https://git.savannah.gnu.org/git/gnulib.git
+default_gnulib_url=https://github.com/ppanigra/gnulib.git
 
 usage() {
   cat <<EOF
